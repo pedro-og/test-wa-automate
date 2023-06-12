@@ -1,0 +1,21 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "Integração com api open-wa/wa-automate para disponibilizar API Rest",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pedro Gonzaga",
+  "license": "ISC",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.66.3",
+    "docusaurus": "^1.14.7",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}

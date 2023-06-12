@@ -1,0 +1,8 @@
+2023/06/12-12:29:38.466 36a4 Reusing MANIFEST C:\Users\rafael\teste\_IGNORE_session\Default\Local Storage\leveldb/MANIFEST-000001
+2023/06/12-12:29:38.471 36a4 Recovering log #4
+2023/06/12-12:29:38.471 36a4 Level-0 table #7: started
+2023/06/12-12:29:38.477 36a4 Level-0 table #7: 28426 bytes OK
+2023/06/12-12:29:38.478 36a4 Delete type=0 #4
+2023/06/12-13:13:38.969 5110 Level-0 table #10: started
+2023/06/12-13:13:38.972 5110 Level-0 table #10: 27135 bytes OK
+2023/06/12-13:13:38.973 5110 Delete type=0 #8
